@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Australia 2019</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Funky Pies</name>
+        <description>After the Coogee to Bondi Beach Walk, my friend and I went to Funky Pies for lunch. They serve all vegan food, and their speciality is the famous Australian hand pie.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2712142,-33.8883772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bondi Beach</name>
+        <description><![CDATA[Bondi Beach is absolutely beautiful. Walking up to it from the beach walk is surreal. <br><img src="https://github.com/havemaps/2019_australia/blob/master/images/bondi.JPG?raw=true" alt="View of Bondi Beach overlooking the Bronte Baths">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2766845,-33.8914755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coogee Beach</name>
+        <description><![CDATA[I met up with a friend in Coogee to do the Coogee to Bondi Beach Walk.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/tamarama.JPG?raw=true" alt="View of Tamarama beach, in the waves are surfers sitting on their boards waiting for a wave">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2581325,-33.9203384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fonda Mexican Bondi</name>
+        <description>After lunch it started raining, so my friend and I ducked into Fonda for some after-lunch drinks at Fonda, a hip Mexican inspired restaurant with cool cocktails.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.271419,-33.889352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Lotus Vegan</name>
+        <description>Golden Lotus is an amazing vegan restaurant in Newtown, serving Vietnamese and East Asian dishes. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.177995,-33.898313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Veriu Randwick</name>
+        <description>I stayed at the Veriu Randwick while attending a conference at UNSW. I loved that it had a kitchenette and was close to everything I needed. The balcony was definitely a highlight, and my room was just high enough for a slight sea view. Unfortunately, it was too cold to really enjoy the outdoor space.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2402033,-33.9144212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soul Burger</name>
+        <description>After getting settled (and taking a long nap) in my hotel, I needed some food, and Soul Burger fed my soul! I went a couple times while I was staying in the area. </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2427899,-33.9199831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNSW Sydney</name>
+        <description>I attended a conference at UNSW, and while the conference was great, I was really impressed by the university!</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2312675,-33.917347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Powerhouse Museum</name>
+        <description><![CDATA[The conference I attended had an event at the Powerhouse Museum. I was preoccupied with the free-flowing sparkling wine and did not explore too much, but it seemed like the museum had a lot of exhibits dedicated to transportation. They even had a Mars Exhibit that reminded me of my days working at Space Camp. <br><img src="https://github.com/havemaps/2019_australia/blob/master/images/powerhouse.JPG?raw=true" alt="Image of a ceiling with many aircraft hanging down from historic to satellites">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.1995418,-33.878518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darling Harbour</name>
+        <description><![CDATA[The conference banquet was set on a boat cruise, which left from Darling Harbor. We cruised around the harbor and saw the Vivid Festival light up the opera house, harbor bridge, and the city.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/darling.JPG?raw=true" alt="Image of a lighted walkway to a large boat">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2009322,-33.8733612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flying Fox Backpackers</name>
+        <description>After the conference, I went to Katoomba for some hiking in the Blue Mountains! I stayed at the Flying Fox Backpackers, an awesome eco-hostel.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.309129,-33.709735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weeping Rock Walking Track</name>
+        <description><![CDATA[The trail to Wentworth Falls went by the Weeping Rock, and it was very serene.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/weeping2.JPG?raw=true" alt="Image of a small waterfall">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3751123,-33.7272669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Pass</name>
+        <description><![CDATA[After walking down to Wentworth Falls, I went a bit further along the National Pass. It got a bit too technical for me as a solo-hiker, but the views were phenomenal.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/nationalpass.JPG?raw=true" alt="Image of a sweeping landscape. In the bottom is a dense eucalytpus forest and in the top is a blue sky. At the mid point are bluffs.">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3740346,-33.7282452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Sisters</name>
+        <description><![CDATA[Of course, the first thing I wanted to see when arriving in Katoomba was the Three Sisters.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/sisters.JPG?raw=true" alt="Image of famous Three Sisters landform, three large cliffs">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3121543,-33.7320724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lila Falls-Leura Forest Walking Track</name>
+        <description><![CDATA[The Three Sisters are crowded with tourists, and the hostel owner suggested I also take the Leura Forest/Falls trail. There were a lot of look outs and not a lot of tourists. <br><img src="https://github.com/havemaps/2019_australia/blob/master/images/leuratrail1.JPG?raw=true" alt="View from Leura Trail showing a bluff and shrubs in the foreground and a valley of trees and a large bluff in the background. There is a cloudy sky.">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3199975,-33.7248976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wentworth Falls</name>
+        <description><![CDATA[On my second day I went to Wentworth Falls. Hiking alone, I didn't want to go somewhere too remote, and the narrow stairs down to the falls made it so that I was never walking along the trail alone for too long.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/wentworth.JPG?raw=true" alt="View from the top of Wentworth Falls">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3742655,-33.7280199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Darwin Walk</name>
+        <description><![CDATA[One of my favorite parts about Katoomba and The Blue Mountains is that all the trails were accessible from public transit. From the train, I was able to walk along the Darwin Walk to get to Wentworth Falls. It was an easy walk and really enjoyable!<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/darrwin.JPG?raw=true" alt="Image of a creek along the Darwin Walk. ">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            150.3739296,-33.7106786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pod Sydney</name>
+        <description>After my trip to Katoomba, I stayed a night at The Pod Sydney before heading back home.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2075577,-33.8782978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shift Eatery</name>
+        <description><![CDATA[On my last day in Sydney, I had an amazing cafe breakfast at Shift Eatery. I had the "Best Vegan Bacon and Egg Bagel in the World" and a matcha latte.<br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.209639,-33.8836573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum of Contemporary Art Australia</name>
+        <description><![CDATA[One of the many things I loved about Sydney was all of the free museums! I went to the Museum of Contemporary Art in the Rocks District. I didn't spend too much time there, but it's worthwhile to visit, if only for the view from cafe. I also enjoyed walking around the historic district after visiting the museum.<br><img src="https://github.com/havemaps/2019_australia/blob/master/images/mca.JPG?raw=true" alt="Image of the Sydney Opera House from the Museum of Contemporary Art rooftop cafe.">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2090295,-33.8599358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Art Gallery of New South Wales</name>
+        <description><![CDATA[On my last day in Sydney, I spent a rainy day at the Art Gallery of New South Wales. There is a wide range of art there from classical and contemporary to local indigenous artists' works. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            151.2174138,-33.8688037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
